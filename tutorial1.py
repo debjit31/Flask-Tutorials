@@ -1,15 +1,26 @@
-from flask import Flask
+from flask import Flask, redirect, url_for
+
+## instantiate an the WebApp
 app = Flask(__name__)
 
+## define routes for your project
 
+## home page
 @app.route("/")
-@app.route("/home")
 def home():
-    return "<h1>Home Page</h1>"
+    return "This is the Home Page!!<h1>HELLO</h1>"
 
-@app.route("/about")
-def about():
-    return "<h1>About Page</h1>"
+## user page
+@app.route("/<name>")
+def user(name):
+    return f"<h1>Hello {name}!</h1>"
 
+## admin page
+@app.route("/admin")
+def admin():
+    ## redirect functionality
+    return redirect(url_for("home"))
+
+## run the web app using a main function
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()

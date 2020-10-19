@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e84adc34-d194-4660-9fff-f78159e10894" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/androidTest/java/com/example/btmnavxxx/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/java/com/example/btmnavxxx/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/java/com/example/btmnavxxx/ui/dashboard/DashboardFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/java/com/example/btmnavxxx/ui/dashboard/DashboardViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/java/com/example/btmnavxxx/ui/home/HomeFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/java/com/example/btmnavxxx/ui/home/HomeViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/java/com/example/btmnavxxx/ui/notifications/NotificationsFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/java/com/example/btmnavxxx/ui/notifications/NotificationsViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/drawable/ic_home_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/drawable/ic_notifications_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/layout/fragment_dashboard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/layout/fragment_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/layout/fragment_notifications.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/menu/bottom_nav_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/navigation/mobile_navigation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/app/src/test/java/com/example/btmnavxxx/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/BtmNavXXX/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/app/src/main/res/layout/activity_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/app/src/main/res/layout/register.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/app/src/test/java/com/example/firebaseauthentication/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebaseAuthentication/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebasePart2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebasePart2/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/FirebasePart2/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/RecyclerViewTutorial/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/RecyclerViewTutorial/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/TestAppXXX/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/TestAppXXX/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/TestAppXXX/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/TestAppXXX/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/TestAppXXX/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/TestAppXXX/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/TestAppXXX/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/TestAppXXX/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/TestAppXXX/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/TestAppXXX/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/TestAppXXX/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/TestAppXXX/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/TestAppXXX/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/androidTest/java/com/example/feesmanagement/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/ic_launcher-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/icon-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/icon1-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/java/com/example/feesmanagement/Details.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/java/com/example/feesmanagement/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/java/com/example/feesmanagement/accept_fees.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/java/com/example/feesmanagement/add_student_details.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/java/com/example/feesmanagement/delete_student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/java/com/example/feesmanagement/show_records.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/drawable/add.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/drawable/btn_back.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/drawable/card.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/drawable/delete.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/drawable/fees.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/drawable/input_back.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/drawable/pay_fees_edited.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/drawable/records.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/drawable/roundbtn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/layout/activity_accept_fees.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/layout/activity_delete_student.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/layout/activity_show_records.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/layout/add_student_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-hdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-hdpi/icon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-mdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-mdpi/icon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-xhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-xhdpi/icon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-xxhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-xxhdpi/icon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-xxxhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/mipmap-xxxhdpi/icon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/values/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/app/src/test/java/com/example/feesmanagement/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android_Studio_Projects/Ureckon/FeesManagement/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial5.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flutter_Projects/fluttertutorials_lesson_1/fluttertutorials_lesson_1/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flutter_Projects/fluttertutorials_lesson_1/fluttertutorials_lesson_1/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flutter_Projects/fluttertutorials_lesson_1/fluttertutorials_lesson_1/.gradle/5.2.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flutter_Projects/fluttertutorials_lesson_1/fluttertutorials_lesson_1/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flutter_Projects/fluttertutorials_lesson_1/fluttertutorials_lesson_1/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flutter_Projects/fluttertutorials_lesson_1/fluttertutorials_lesson_1/.gradle/vcs-1/gc.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../" />
+  </component>
+  <component name="ProjectId" id="1j61OwSgMSbkmnqtoDX3C6XkQDy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e84adc34-d194-4660-9fff-f78159e10894" name="Default Changelist" comment="" />
+      <created>1603109699303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603109699303</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603117259527">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603117259527" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1603109760760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603109760760" />
+  </component>
+</project>
