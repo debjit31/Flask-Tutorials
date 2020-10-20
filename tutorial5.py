@@ -8,6 +8,15 @@ app = Flask(__name__)
 app.secret_key = "my_secret_key"
 app.permanent_session_lifetime=timedelta(minutes=5)
 
+
+## Steps :-
+## 1. Instantiate Flask
+## 2. Setup the different routes for the website
+## 3. each route is a function in python
+## render the login template in the login route
+## use sessions to save login data
+## make the sessions temporarily permanent
+
 @app.route("/")
 def home():
     return render_template("index.html")
