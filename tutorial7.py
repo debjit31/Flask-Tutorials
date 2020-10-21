@@ -47,7 +47,6 @@ def login():
             usr = users(user_name, "")
             db.session.add(usr)
             db.session.commit()
-
         flash("Login Successful!!")
         return redirect(url_for("user"))
     else:
