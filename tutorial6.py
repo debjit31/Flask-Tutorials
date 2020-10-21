@@ -26,8 +26,8 @@ def home():
 def login():
     if request.method == "POST":
         session.permanent =True
-        user = request.form['nm']
-        session["user"] = user
+        user_name = request.form['nm']
+        session["user"] = user_name
         flash("Login Successful!!")
         return redirect(url_for("user"))
     else:
@@ -45,11 +45,19 @@ def logout():
     return redirect(url_for("login"))
 
 
-@app.route("/user")
+@app.route("/user", methods = ["POST", "GET"])
 def user():
+    email = None
     if "user" in session:
-        user = session["user"]
-        return render_template("user.html", user = user)
+        # user = session["user"]
+        if request.method == "POST":
+            email = request.form["email"]
+            session["email"] = email
+            flash("Email Submitted!!")
+        else:
+            if "email" in session:
+                email = session["email"]
+                return render_template("user.html", email=email)
     else:
         flash("You are not Logged In!!")
         return redirect(url_for("login"))
